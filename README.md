@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://diazeddym.github.io/Frontend-Mentor---Social-proof-section-solution/)
+- Live Site URL: [Social Proof-Solution](https://diazeddym.github.io/Frontend-Mentor---Social-proof-section-solution/)
 
 ### Built with
 
